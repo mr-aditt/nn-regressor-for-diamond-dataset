@@ -1,7 +1,8 @@
-# nn-regressor-for-diamond-dataset
+# Neural Net Regressor using **Tensorflow** 
 Neural Net Regressor using Tensorflow on Diamond dataset
-[Colab](https://colab.research.google.com/drive/1yQWamK0E5domE5NUDnvuVVouTPZzRa6m?usp=sharing)
 
+## Dataset
+**Info about dataset**
 [Dataset](https://www.kaggle.com/shivam2503/diamonds/download)
 
 | Column Name | Description | Additional Description |
