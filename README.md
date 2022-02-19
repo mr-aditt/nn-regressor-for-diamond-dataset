@@ -1,9 +1,9 @@
-# Neural Net Regressor using **Tensorflow** 
-Neural Net Regressor using Tensorflow on Diamond dataset
+# Neural Net Regressor using Tensorflow
+Create a Neural Network to predict `price` (response) of diamond based on predictors like `Carat`, `cut`, `Color` etc.
 
 ## Dataset
 **Info about dataset**
-[Dataset](https://www.kaggle.com/shivam2503/diamonds/download)
+> [Dataset](https://www.kaggle.com/shivam2503/diamonds/download)
 
 | Column Name | Description | Additional Description |
 |    :----:   |    :----    | :--- |
